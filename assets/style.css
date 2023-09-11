@@ -28,8 +28,8 @@ p {
     font-size: 30px;
   }
   .card {
-    width: 80%;
+    width: 75%;
     margin: 40px auto;
-    border: 5px solid gray;
-    box-shadow: 5px 5px #888888;
+    border: 5px solid rgb(38, 0, 255);
+    box-shadow: 5px 5px #539eff;
   }
